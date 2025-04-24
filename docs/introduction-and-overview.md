@@ -50,7 +50,7 @@ import CardGrid from '@site/src/components/CardGrid';
     {
       title: 'Overview Video',
       //text: 'Visit Intrepid Control Systems main website for more tools.',
-      img: '/img/overview-image.jpg',
+      img: '/wavebps/img/overview-image.jpg',
       link: 'https://www.youtube.com/watch?v=ROJswJmeXnE',
     },
     {

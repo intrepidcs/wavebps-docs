@@ -74,7 +74,7 @@ import React from "react";
 import styles from "./DownloadFile.module.css"; // Import the CSS module
 
 const fileIcons = {
-  default: "/img/default-icon.png",
+  default: "/wavebps/img/default-icon.png",
 };
 
 const getFileExtension = (filename) => {

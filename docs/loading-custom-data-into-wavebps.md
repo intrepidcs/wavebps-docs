@@ -12,7 +12,7 @@ import DownloadFile from '@site/src/components/DownloadFile';
 
 * **Download example project  from the following —**
   
-<DownloadFile fileName="wavebpsimport.zip" fileSize="7KB" filePath="/downloads/wavebpsimport.zip" />
+<DownloadFile fileName="wavebpsimport.zip" fileSize="7KB" filePath="/wavebps/downloads/wavebpsimport.zip" />
 
 <!-- <a href="/downloads/wavebpsimport.zip" class="span-custom-link">wavebpsimport.zip</a> -->
 <br/>
