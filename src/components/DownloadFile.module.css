@@ -1,0 +1,22 @@
+.downloadFile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .downloadFile:hover {
+    background-color: #f9f9f9;
+    text-decoration: none;
+  }
+  
+  .icon {
+    width: 60px;
+  }
+  

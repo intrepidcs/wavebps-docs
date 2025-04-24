@@ -1,0 +1,40 @@
+.gridContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+  }
+  
+  .cardLinkWrapper {
+    text-decoration: none !important;
+    color: unset !important;
+    flex: 1 1 270px;
+    max-width: 320px;
+  }
+  
+  .card {
+    height: 100%;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+    color: #1d00fa;
+  }
+  
+  .cardImage {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 0.75rem;
+  }

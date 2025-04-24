@@ -1,0 +1,12 @@
+{
+    "label": "Example Waveforms",
+    "position": 34,
+    "link": {
+      "type": "generated-index",
+      "title": "Example Waveforms",
+      "description": "Explore example waveforms comparing FlexRay, CAN / CAN FD, and LIN buses, including dynamic frames, fault-tolerant signals, and protocol decoding views.",
+      "keywords": ["CAN FD waveform, FlexRay frame decode, LIN bus decoding, CAN FD utilization, dynamic frame waveform, fault tolerant CAN, FlexRay vs CAN waveform"]
+    }
+  }
+  
+  

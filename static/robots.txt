@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /markdown-page
+Disallow: /test
+
+Allow: /
+
+Sitemap: https://guide.intrepidcs.com/wavebps/sitemap.xml
