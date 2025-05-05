@@ -38,19 +38,16 @@ import CardGrid from '@site/src/components/CardGrid';
     {
       title: 'CAN / CAN FD bus Waveform',
       text: 'This is a 500Kbit DW CAN Bus standard frame.',
-      //img: '/assets/can.png',
       link: '/example-waveforms/can-can-fd-bus-waveform-decoding',
     },
     {
       title: 'LIN bus Waveform',
       text: 'These are 10.41 Kbit LIN Bus frames',
-      //img: '/assets/intrepid.png',
       link: '/example-waveforms/lin-bus-decode',
     },
     {
       title: 'Overview Video',
-      //text: 'Visit Intrepid Control Systems main website for more tools.',
-      img: '/wavebps/img/overview-image.jpg',
+      img: '.././img/overview-image.jpg',
       link: 'https://www.youtube.com/watch?v=ROJswJmeXnE',
     },
     {

@@ -18,7 +18,7 @@ An example database is included at this link swcan.wvdb (open below file as a te
 
 import DownloadFile from '@site/src/components/DownloadFile';
 
-<DownloadFile fileName="swcan.wvdb" fileSize="873B" filePath="/wavebps/downloads/swcan.wvdb" />
+<DownloadFile fileName="swcan.wvdb" fileSize="873B" filePath="/docs/wavebps/downloads/swcan.wvdb" />
 
 <div class="text--center">
 
