@@ -8,11 +8,11 @@ sidebar_label: "Loading custom data into WaveBPS"
 
 # Loading custom data into WaveBPS
 
-import DownloadFile from '@site/src/components/DownloadFile';
-
 * **Download example project  from the following —**
+
+import DownloadFile from '@site/src/components/DownloadFile';
   
-<DownloadFile fileName="wavebpsimport.zip" fileSize="7KB" filePath="/docs/wavebps/downloads/wavebpsimport.zip" />
+<DownloadFile fileName="wavebpsimport.zip" fileSize="7KB" filePath="downloads/wavebpsimport.zip" />
 
 <!-- <a href="/downloads/wavebpsimport.zip" class="span-custom-link">wavebpsimport.zip</a> -->
 <br/>
